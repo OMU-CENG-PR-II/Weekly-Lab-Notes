@@ -14,3 +14,4 @@ Bu depo, Programlama Giriş II dersi kapsamında yapılan haftalık uygulama otu
 - [7. Hafta - 08.05.2026 Oturumu](7.Hafta-08-05-2026-Oturumu.md)
 - [8. Hafta - 15.05.2026 Oturumu Sorusu](8.Hafta-15-05-2026-Oturumu-Sorusu.c)
 - [8. Hafta - 15.05.2026 Oturumu Çözümü](8.Hafta-15-05-2026-Oturumu-Çözümü.c)
+- [9. Hafta - 22.05.2026 Oturumu Çözümü](9.Hafta-22-05-2026-Oturumu.c)
